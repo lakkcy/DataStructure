@@ -1,0 +1,19 @@
+import java.util.*;
+public class TwoDArray{
+	public void calculateHourGlassValue(int[][] arr, int li, int lh, int rh){
+		for(int h = lh; h <= rh; h++){
+			for()
+		}
+	}
+	public static void main(String[] args){
+		int[][] arr = new int[6][6];
+		Scanner scan = new Scanner(System.in);
+		for(int i =0; i<6; i++){
+			for(int j=0;j<6;j++){
+				arr[i][j] = scan.nextInt();
+			}
+		}
+
+
+	}
+}
